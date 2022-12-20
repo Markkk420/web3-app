@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Web 3.0 Blockchain App created with React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
